@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 48" width="50" height="48">
+	<title>Menjutazni</title>
+	<defs>
+		<image  width="50" height="48" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 32px;fill: #ffffff;font-weight: 400;font-family: "Calistoga-Regular", "Calistoga" } 
+		.t1 { font-size: 25px;fill: #ffffff;font-weight: 400;font-family: "Calistoga-Regular", "Calistoga" } 
+	</style>
+	<g id="Folder 1">
+		<use id="airplane-around-earth" href="#img1" x="0" y="0"/>
+		<text id="Menjutazni" style="transform: matrix(1,0,0,1,57,33)" >
+			<tspan x="0" y="0" class="t0">M</tspan><tspan  y="0" class="t1">enjutazni
+</tspan>
+		</text>
+	</g>
+</svg>
