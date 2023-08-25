@@ -163,10 +163,18 @@
       .row.igralnice{
       .slovernia__pictures.overlay{
        height: 100%;
+       margin: 0;
        img{
        max-width:100%;
        }
       }
+      .destination-card {
+       padding-left: 0px; 
+        h3 {
+        padding-bottom: 20px;
+        padding-top: 30px;
+    }
+    }
       }
     }
    }

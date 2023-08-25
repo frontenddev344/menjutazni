@@ -1023,9 +1023,17 @@ a {
   }
   .top_tips_main .row.igralnice .slovernia__pictures.overlay {
     height: 100%;
+    margin: 0;
   }
   .top_tips_main .row.igralnice .slovernia__pictures.overlay img {
     max-width: 100%;
+  }
+  .top_tips_main .row.igralnice .destination-card {
+    padding-left: 0px;
+  }
+  .top_tips_main .row.igralnice .destination-card h3 {
+    padding-bottom: 20px;
+    padding-top: 30px;
   }
 }
 @media (max-width: 575px) {
