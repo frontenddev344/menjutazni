@@ -1035,6 +1035,10 @@ a {
     padding-bottom: 20px;
     padding-top: 30px;
   }
+  .top_tips_main .row.igralnice .destination-card .bnr_btn {
+    text-align: left;
+    padding-top: 28px;
+  }
 }
 @media (max-width: 575px) {
   .footer .footer_box .ul_flex {
