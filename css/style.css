@@ -338,7 +338,7 @@ a {
 
 /*--global--*/
 .global_search {
-  padding: 50px 0px;
+  padding: 50px 0px 0;
 }
 .global_search .space_bar {
   padding-bottom: 50px;
