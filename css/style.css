@@ -1021,6 +1021,12 @@ a {
   .global_search .global_search_right {
     padding: 40px 22px;
   }
+  .top_tips_main .row.igralnice .slovernia__pictures {
+    height: 100%;
+  }
+  .top_tips_main .row.igralnice .slovernia__pictures img {
+    max-width: 100%;
+  }
 }
 @media (max-width: 575px) {
   .footer .footer_box .ul_flex {
