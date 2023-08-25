@@ -737,6 +737,11 @@ a {
   height: 100%;
   padding-left: 25px;
 }
+.top_tips_main .row.igralnice .destination-card h3 {
+  font-weight: 500;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
 .top_tips_main .row.igralnice .bnr_btn {
   text-align: right;
 }
