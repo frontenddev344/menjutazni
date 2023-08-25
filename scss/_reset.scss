@@ -219,6 +219,9 @@
         }
         &:nth-child(5) {
           grid-column: span 4;
+          img{
+            width: 100%;
+          }
       }
         .content{
           position: absolute;

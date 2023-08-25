@@ -220,6 +220,9 @@ a {
 .home-destinations .grid_row .grid_column:nth-child(5) {
   grid-column: span 4;
 }
+.home-destinations .grid_row .grid_column:nth-child(5) img {
+  width: 100%;
+}
 .home-destinations .grid_row .grid_column .content {
   position: absolute;
   top: 50%;
