@@ -666,6 +666,9 @@ a {
   z-index: 1;
   display: inline-block;
 }
+.culinary_card .grid_row .content .bnr_btn a:hover:before {
+  width: 100%;
+}
 .culinary_card .grid_row .content .bnr_btn a::before {
   content: "";
   position: absolute;
