@@ -2,14 +2,27 @@
   .home-destinations{
     .grid_row{
       .grid_column{
-        &:nth-child(3){
-          img{
-            min-height: 600px;
-          }
+        &:nth-child(1) {
+          grid-column: span 4;
         }
+       &:nth-child(2) {
+          grid-column: span 2;
+      }
+      &:nth-child(3) {
+        grid-column: span 2;
+    }
+    &:nth-child(4) {
+      grid-column: span 2;
+      img{
+        min-height: 300px;
+      }
+  }
+  
+  
       }
     }
   }
+  
 }
 
 
