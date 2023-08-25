@@ -568,9 +568,6 @@ a {
   position: relative;
   transition: all 0.3s ease;
 }
-.unforgettable_card .outer .luxurious_main_card .luxurious_img:hover::after {
-  transform: scale(1);
-}
 .unforgettable_card .outer .luxurious_main_card .luxurious_img img {
   height: 317px;
   width: 100%;

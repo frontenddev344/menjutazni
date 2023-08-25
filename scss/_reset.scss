@@ -594,11 +594,7 @@
       .luxurious_img {
         position: relative;
         transition: all .3s ease;
-        &:hover{
-          &::after{
-            transform: scale(1);
-          }
-        }
+      
         img {
           height: 317px;
           width: 100%;
