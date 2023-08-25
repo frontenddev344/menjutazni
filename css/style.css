@@ -1021,10 +1021,10 @@ a {
   .global_search .global_search_right {
     padding: 40px 22px;
   }
-  .top_tips_main .row.igralnice .slovernia__pictures {
+  .top_tips_main .row.igralnice .slovernia__pictures.overlay {
     height: 100%;
   }
-  .top_tips_main .row.igralnice .slovernia__pictures img {
+  .top_tips_main .row.igralnice .slovernia__pictures.overlay img {
     max-width: 100%;
   }
 }
