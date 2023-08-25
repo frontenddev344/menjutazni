@@ -481,6 +481,9 @@ a {
   padding: 300px 5px 220px;
 }
 
+.top_rated {
+  padding: 50px 0 0px;
+}
 .top_rated .global_search_right .bnr_btn a {
   display: inline-block;
   font-size: 17px;
