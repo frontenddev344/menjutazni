@@ -666,8 +666,19 @@ a {
   z-index: 1;
   display: inline-block;
 }
-.culinary_card .grid_row .content .bnr_btn a:hover {
-  background: linear-gradient(101deg, rgb(252, 70, 107) 28%, rgb(63, 94, 251) 87%);
+.culinary_card .grid_row .content .bnr_btn a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 0%;
+  height: 100%;
+  background-color: #000;
+  transition: all 0.3s ease;
+  z-index: -1;
 }
 
 /*--top_tips--*/
