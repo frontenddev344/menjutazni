@@ -730,14 +730,14 @@ a {
   max-width: 250px;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.8);
 }
-.top_tips_main .row.igralnice .slovernia__pictures.overlay .destination-card {
+.top_tips_main .row.igralnice .destination-card {
   display: flex;
   flex-direction: column;
   justify-content: center;
   height: 100%;
   padding-left: 25px;
 }
-.top_tips_main .row.igralnice .slovernia__pictures.overlay .page {
+.top_tips_main .row.igralnice .page {
   max-width: 75%;
   margin: 0 auto;
 }

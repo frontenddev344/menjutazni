@@ -777,19 +777,18 @@
         max-width: 250px;
         box-shadow: 0 3px 10px rgb(0 0 0 / 0.8);
     }
-    .destination-card {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      height: 100%;
-      padding-left: 25px;
   }
-  .page {
-    max-width: 75%;
-    margin: 0 auto;
+  .destination-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding-left: 25px;
 }
-    
-  }
+.page {
+  max-width: 75%;
+  margin: 0 auto;
+}
   }
 }
 
