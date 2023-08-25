@@ -737,6 +737,9 @@ a {
   height: 100%;
   padding-left: 25px;
 }
+.top_tips_main .row.igralnice .bnr_btn {
+  text-align: right;
+}
 .top_tips_main .row.igralnice .bnr_btn a {
   display: inline-block;
   font-size: 17px;
