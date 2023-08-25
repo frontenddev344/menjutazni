@@ -1059,6 +1059,9 @@ a {
   .footer .footer_box .ul_flex aside:nth-child(2) {
     margin-left: 0px;
   }
+  .heading h2 {
+    display: block;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
