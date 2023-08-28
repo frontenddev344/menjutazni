@@ -198,7 +198,6 @@ a {
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
   padding-top: 50px;
-  grid-template-rows: 350px 350px;
 }
 .home-destinations .grid_row .grid_column {
   position: relative;
