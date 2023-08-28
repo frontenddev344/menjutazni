@@ -211,7 +211,7 @@ a {
   grid-row: span 2;
 }
 .home-destinations .grid_row .grid_column:nth-child(2) img {
-  height: auto;
+  height: 100%;
   object-fit: cover;
 }
 .home-destinations .grid_row .grid_column:nth-child(3) img {
