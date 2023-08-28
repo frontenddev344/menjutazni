@@ -22,7 +22,9 @@
     &:nth-child(4) {
       grid-column: span 4;
       grid-row: span 1;
-      height: 400px;
+      img{
+        height: 400px;
+      }
   }
   
   
