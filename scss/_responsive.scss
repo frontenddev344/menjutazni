@@ -1,6 +1,10 @@
 @media (max-width: 1200px) { 
   .home-destinations{
     .grid_row{
+      img{
+        height: 500px;
+    width: 100%;
+      }
       .grid_column{
         &:nth-child(1) {
           grid-column: span 4;
@@ -15,10 +19,8 @@
         grid-column: span 2;
     }
     &:nth-child(4) {
-      grid-column: span 2;
-      img{
-        min-height: 300px;
-      }
+      grid-column: span 4;
+      grid-row: span 1;
   }
   
   
