@@ -345,11 +345,11 @@
       }
       .ul_flex{
         display: flex;
-        aside{
-          &:nth-child(2){
-            margin-left: 40px;
+        ul {
+          &:first-child{
+          padding-right: 33px;
           }
-        }
+      }
       }
     }
   }

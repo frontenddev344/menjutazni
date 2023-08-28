@@ -332,8 +332,8 @@ a {
 .footer .footer_box .ul_flex {
   display: flex;
 }
-.footer .footer_box .ul_flex aside:nth-child(2) {
-  margin-left: 40px;
+.footer .footer_box .ul_flex ul:first-child {
+  padding-right: 33px;
 }
 
 /*--global--*/
