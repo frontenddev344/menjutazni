@@ -7,6 +7,8 @@
         }
        &:nth-child(2) {
           grid-column: span 2;
+          height: 400px;
+          width: 100%;
       }
       &:nth-child(3) {
         grid-column: span 2;
@@ -75,22 +77,6 @@
      .home-destinations{
       .grid_row{
         .grid_column{
-          &:nth-child(1) {
-            grid-column: span 4;
-          }
-         &:nth-child(2) {
-            grid-column: span 2;
-        }
-        &:nth-child(3) {
-          grid-column: span 2;
-      }
-      &:nth-child(4) {
-        grid-column: span 2;
-        img{
-          min-height: 300px;
-        }
-    }
-    
       .content {
         padding: 12px;
         h3{

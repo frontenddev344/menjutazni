@@ -920,6 +920,8 @@ a {
   }
   .home-destinations .grid_row .grid_column:nth-child(2) {
     grid-column: span 2;
+    height: 400px;
+    width: 100%;
   }
   .home-destinations .grid_row .grid_column:nth-child(3) {
     grid-column: span 2;
@@ -963,21 +965,6 @@ a {
   }
   .home-bnr .bnr_heading h1 {
     font-size: 50px;
-  }
-  .home-destinations .grid_row .grid_column:nth-child(1) {
-    grid-column: span 4;
-  }
-  .home-destinations .grid_row .grid_column:nth-child(2) {
-    grid-column: span 2;
-  }
-  .home-destinations .grid_row .grid_column:nth-child(3) {
-    grid-column: span 2;
-  }
-  .home-destinations .grid_row .grid_column:nth-child(4) {
-    grid-column: span 2;
-  }
-  .home-destinations .grid_row .grid_column:nth-child(4) img {
-    min-height: 300px;
   }
   .home-destinations .grid_row .grid_column .content {
     padding: 12px;
