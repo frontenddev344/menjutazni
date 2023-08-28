@@ -1,11 +1,12 @@
 @media (max-width: 1200px) { 
   .home-destinations{
     .grid_row{
-      img{
-        height: 500px;
-    width: 100%;
-      }
+      
       .grid_column{
+        img{
+          height: 500px;
+      width: 100%;
+        }
         &:nth-child(1) {
           grid-column: span 4;
         }

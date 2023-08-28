@@ -915,7 +915,7 @@ a {
 }
 
 @media (max-width: 1200px) {
-  .home-destinations .grid_row img {
+  .home-destinations .grid_row .grid_column img {
     height: 500px;
     width: 100%;
   }
